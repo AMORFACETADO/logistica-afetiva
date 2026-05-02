@@ -8,6 +8,8 @@ Cada termo inclui: definição operacional, o que **não é**, exemplo concreto 
 
 📄 **Referência técnica completa (24 termos):** [GLOSSARIO-COMPLETO.md](./GLOSSARIO-COMPLETO.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19965919.svg)](https://doi.org/10.5281/zenodo.19965919)
+
 ***
 
 ## Por que este glossário existe
@@ -211,7 +213,9 @@ Se você usa esses conceitos, discorda de alguma definição ou quer propor novo
 
 ## Sobre este projeto
 
-Mantido por [AMORFACETADO](https://github.com/AMORFACETADO).  
+Mantido por [AMORFACETADO](https://github.com/AMORFACETADO). 
+
+Publicação científica: [Zenodo DOI 10.5281/zenodo.19965919](https://doi.org/10.5281/zenodo.19965919)
 Agente ARIEL: ferramenta de logística afetiva para relações não-monogâmicas e contextos neurodivergentes.  
 Referência técnica completa: [GLOSSARIO-COMPLETO.md](./GLOSSARIO-COMPLETO.md)
 
