@@ -2,7 +2,7 @@
 
 **Organização:** AMORFACETADO  
 **Repositório:** https://github.com/AMORFACETADO/logistica-afetiva  
-**Versão:** 1.0 — Maio de 2026  
+**Versão:** 1.1 — Maio de 2026  
 **Tipo de documento:** Working Paper / Technical Report  
 **Licença:** Creative Commons CC BY 4.0
 
@@ -14,7 +14,7 @@ Este documento apresenta as definições operacionais do campo emergente de **Lo
 
 Cada entrada inclui: definição operacional, delimitação (o que **não é**), exemplo concreto e métrica observável.
 
-**Palavras-chave:** logística afetiva, relacionamentos complexos, não-monogamia consensual, neurodivergência, gestão relacional, poliamor, acordos relacionais.
+**Palavras-chave:** amor facetado, logística afetiva, relacionamentos complexos, não-monogamia consensual, neurodivergência, gestão relacional, poliamor, acordos relacionais.
 
 ---
 
@@ -30,15 +30,33 @@ Este glossário nomeia essa carga para que ela possa ser endereçada.
 
 | Camada | Função | Termos |
 |--------|--------|--------|
+| **0. Fundamento** | Nomear a natureza do amor multidimensional | Amor Facetado |
 | **1. Estrutura** | Mapear o formato dos relacionamentos | Topologia Relacional, Hierarquia de Parceria, Metamour |
 | **2. Carga** | Nomear os custos invisíveis | Drenagem Cognitiva Relacional, Sobrecarga de Implícitos, Fadiga de Negociação, Polissaturação, Carga de Ancoragem Relacional |
 | **3. Acordo** | Descrever dinâmicas de pactos | Acordos Revisitáveis, Deriva de Acordo, Limite Negociado, Acordos de NMC, Externalização de Expectativa |
 | **4. Gestão** | Organizar a operação diária | Logística Afetiva, Gestão de Turno Afetivo, Protocolo de Check-in, Sobreposição de Demandas, Infraestrutura Relacional |
-| **5. Sistema** | Suportar com ferramentas externas | Memória Externalizada, Sincronização Stateless, Regulação Assíncrona, Assimetria de Processamento, Colapso de Contexto |
+| **5. Sistema** | Suportar com ferramentas externas | Memória Externalizada, Sincronização Stateless, Regulação Assíncrona, Assimetria de Processamento, Colapso de Contexto, Carga Mental Relacional Distribuída |
 
 ---
 
 ## Definições Operacionais
+
+---
+
+### 0. Amor Facetado
+
+**Definição operacional:**  
+Modelo de amor em que a capacidade afetiva de uma pessoa se expressa em dimensões distintas, simultâneas e não-competitivas — cada faceta ativa com uma pessoa diferente, cada uma revelando um aspecto genuíno do mesmo ser afetivo. Não descreve quantos parceiros existem: descreve a natureza do amor em si. Uma gema não escolhe ter múltiplas faces — é sua estrutura que as gera. O Amor Facetado parte do mesmo pressuposto: a capacidade afetiva multidimensional não é um comportamento aprendido nem uma preferência cultural. É uma configuração.
+
+**Não é:** Poliamor, infidelidade, incapacidade de comprometimento, acúmulo de parceiros ou fragmentação emocional. Não é o mesmo que amar várias pessoas ao mesmo tempo no sentido aditivo — é amar de formas que não cabem em uma única dimensão relacional, independente do número de vínculos ativos.
+
+**Exemplo concreto:**  
+Uma pessoa que, com o Parceiro A, ativa sua dimensão intelectual e filosófica. Com o Parceiro B, sua dimensão de cuidado e presença física. Com o Parceiro C, sua dimensão criativa e lúdica. Nenhuma dessas facetas compete com as outras — cada uma é genuína, cada uma é completa em si mesma. Remover qualquer uma delas não simplifica o amor: apaga uma dimensão real do ser.
+
+**Métrica observável:**  
+Número de dimensões afetivas distintas que uma pessoa consegue nomear como ativas em sua estrutura relacional atual — e grau de sobreposição percebida entre elas. Sobreposição baixa indica facetas funcionalmente distintas; sobreposição alta indica que o modelo pode ser poliamor convencional, não Amor Facetado.
+
+---
 
 ### 1. Logística Afetiva
 
@@ -406,6 +424,8 @@ Distribuição percentual de iniciativa de check-ins entre os parceiros ao longo
 **Repositório público:** https://github.com/AMORFACETADO/logistica-afetiva  
 **Licença:** Creative Commons CC BY 4.0
 
+Os termos das Camadas 4 e 5 foram desenvolvidos e validados no contexto operacional do [Agente ARIEL](https://github.com/AMORFACETADO/Agente-ARIEL-IA-Relacionamentos-Complexos-Poliamor-Neurodivergentes).
+
 *"Logística Afetiva — porque a sobrecarga não é sua. É da ausência de sistema."*
 
-**Versão 1.0 — Maio de 2026 | AMORFACETADO**
+**Versão 1.1 — Maio de 2026 | AMORFACETADO**
